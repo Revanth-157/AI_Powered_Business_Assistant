@@ -1,0 +1,21 @@
+product_id,product_name,brand,category,sub_category,pack_size_ml,launch_date,base_price
+1,"Rodriguez, CAR 1","Rodriguez,",Carbonated,Carbonated Regular,250,2025-07-19,1.63
+2,Doyle JUI 2,Doyle,Juice,Juice Regular,250,2025-02-15,2.35
+3,"Mcclain, ENE 3","Mcclain,",Energy Drinks,Energy Drinks Regular,750,2025-10-05,2.54
+4,Davis JUI 4,Davis,Juice,Juice Regular,1000,2025-02-07,2.31
+5,"Guzman, ENE 5","Guzman,",Energy Drinks,Energy Drinks Premium,750,2025-01-24,2.67
+6,"Gardner, CAR 6","Gardner,",Carbonated,Carbonated Premium,330,2025-05-31,1.61
+7,Blake JUI 7,Blake,Juice,Juice Regular,330,2025-06-02,2.51
+8,"Henderson, CAR 8","Henderson,",Carbonated,Carbonated Organic,750,2025-05-29,1.39
+9,Garcia-James WAT 9,Garcia-James,Water,Water Regular,250,2025-02-20,1.08
+10,Abbott-Munoz DAI 10,Abbott-Munoz,Dairy,Dairy Organic,250,2025-01-04,2.6
+11,Blair WAT 11,Blair,Water,Water Regular,1000,2025-10-17,0.95
+12,Dudley JUI 12,Dudley,Juice,Juice Regular,500,2025-07-25,2.52
+13,Arnold DAI 13,Arnold,Dairy,Dairy Regular,500,2025-05-19,2.53
+14,"Mcclure, WAT 14","Mcclure,",Water,Water Organic,500,2025-07-08,0.95
+15,Williams CAR 15,Williams,Carbonated,Carbonated Organic,1000,2025-02-21,1.59
+16,Galloway-Wyatt JUI 16,Galloway-Wyatt,Juice,Juice Organic,330,2025-07-06,2.23
+17,James ENE 17,James,Energy Drinks,Energy Drinks Regular,330,2025-10-24,3.0
+18,"Flowers, CAR 18","Flowers,",Carbonated,Carbonated Regular,500,2025-10-19,1.5
+19,"Adams, ENE 19","Adams,",Energy Drinks,Energy Drinks Premium,500,2025-03-11,2.67
+20,"Reid, DAI 20","Reid,",Dairy,Dairy Organic,330,2025-07-18,2.42
